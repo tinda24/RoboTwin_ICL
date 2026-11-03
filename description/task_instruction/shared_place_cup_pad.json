@@ -1,0 +1,16 @@
+{
+  "full_description": "Pick up the cup and place it on the purple pad with the right arm",
+  "schema": "{A} notifies the cup, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Put {A} on the purple pad with {a}.",
+    "Move {A} onto the purple pad.",
+    "Place {A} on the purple square.",
+    "Use {a} to set {A} on the purple pad.",
+    "Pick {A} up and put it on the purple pad."
+  ],
+  "unseen": [
+    "Set {A} down on the purple pad.",
+    "Move {A} to the purple square with {a}."
+  ]
+}

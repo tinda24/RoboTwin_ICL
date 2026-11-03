@@ -1,0 +1,16 @@
+{
+  "full_description": "Push the playing cards along the table with the right arm",
+  "schema": "{A} notifies the playing cards, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Push {A} along the table with {a}.",
+    "Slide {A} forward on the table.",
+    "Use {a} to push {A} away.",
+    "Move {A} along the tabletop.",
+    "Push {A} across the table with {a}."
+  ],
+  "unseen": [
+    "Slide {A} away with {a}.",
+    "Push {A} along the table without lifting it."
+  ]
+}

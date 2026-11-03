@@ -1,0 +1,16 @@
+{
+  "full_description": "Put the red cube into the plate",
+  "schema": "{A} notifies the object, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Put {A} into the plate with {a}.",
+    "Place {A} in the plate.",
+    "Drop {A} into the plate using {a}.",
+    "Use {a} to set {A} inside the plate.",
+    "Move {A} into the plate."
+  ],
+  "unseen": [
+    "Set {A} down in the plate.",
+    "Put {A} inside the plate with {a}."
+  ]
+}

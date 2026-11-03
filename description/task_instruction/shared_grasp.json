@@ -1,0 +1,16 @@
+{
+  "full_description": "Grasp one object on the shared table and lift it when it can move",
+  "schema": "{A} notifies the object, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Pick up {A} with {a}.",
+    "Grasp {A} using {a}.",
+    "Use {a} to pick {A} up.",
+    "Grab {A} with {a}.",
+    "Lift {A} with {a}."
+  ],
+  "unseen": [
+    "Take {A} with {a}.",
+    "Hold {A} using {a}."
+  ]
+}

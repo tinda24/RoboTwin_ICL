@@ -1,0 +1,16 @@
+{
+  "full_description": "Stack the green cube on the red cube with the left arm",
+  "schema": "{A} notifies the green cube, {B} notifies the red cube, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Stack {A} on {B} with {a}.",
+    "Put {A} on top of {B}.",
+    "Place {A} onto {B} using {a}.",
+    "Use {a} to stack {A} on {B}.",
+    "Pick {A} up and set it on {B}."
+  ],
+  "unseen": [
+    "Set {A} down on {B}.",
+    "Move {A} onto {B} with {a}."
+  ]
+}

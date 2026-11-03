@@ -1,0 +1,16 @@
+{
+  "full_description": "Push the red cube along the table toward the blue pad with the left arm",
+  "schema": "{A} notifies the red cube, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Push {A} toward the blue pad with {a}.",
+    "Slide {A} toward the blue pad.",
+    "Use {a} to push {A} to the blue pad.",
+    "Move {A} along the table toward the blue pad.",
+    "Push {A} across the table toward the blue square."
+  ],
+  "unseen": [
+    "Slide {A} toward the blue pad with {a}.",
+    "Push {A} along the table to the blue pad."
+  ]
+}

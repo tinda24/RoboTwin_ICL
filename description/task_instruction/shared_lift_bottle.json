@@ -1,0 +1,16 @@
+{
+  "full_description": "Lift the bottle on the left side of the cluttered table with the left arm",
+  "schema": "{A} notifies the bottle, {a} notifies the arm to lift the bottle",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Lift {A} with {a}.",
+    "Pick {A} up using {a}.",
+    "Grab {A} from the table with {a}.",
+    "Raise {A} off the table.",
+    "Use {a} to lift {A}."
+  ],
+  "unseen": [
+    "Pick up {A} from the crowded table.",
+    "Hold {A} up with {a}."
+  ]
+}

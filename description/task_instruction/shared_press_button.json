@@ -1,0 +1,15 @@
+{
+  "full_description": "Press the button on the shared table",
+  "schema": "{A} notifies the button, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Press {A} with {a}.",
+    "Push {A} using {a}.",
+    "Use {a} to press {A}.",
+    "Click {A} with {a}."
+  ],
+  "unseen": [
+    "Tap {A} with {a}.",
+    "Press down on {A} using {a}."
+  ]
+}

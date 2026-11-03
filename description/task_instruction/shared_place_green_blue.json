@@ -1,0 +1,16 @@
+{
+  "full_description": "Pick up the green cube and place it on the blue pad with the left arm",
+  "schema": "{A} notifies the green cube, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Put {A} on the blue pad with {a}.",
+    "Move {A} onto the blue pad.",
+    "Place {A} on the blue square.",
+    "Use {a} to set {A} on the blue pad.",
+    "Pick {A} up and put it on the blue pad."
+  ],
+  "unseen": [
+    "Set {A} down on the blue pad.",
+    "Move {A} to the blue square with {a}."
+  ]
+}

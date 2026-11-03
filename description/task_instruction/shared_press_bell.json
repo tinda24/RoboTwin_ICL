@@ -1,0 +1,15 @@
+{
+  "full_description": "Press the bell on the shared table",
+  "schema": "{A} notifies the bell, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Press {A} with {a}.",
+    "Tap {A} using {a}.",
+    "Use {a} to press {A}.",
+    "Touch {A} with {a}."
+  ],
+  "unseen": [
+    "Hit {A} with {a}.",
+    "Press down on {A} using {a}."
+  ]
+}

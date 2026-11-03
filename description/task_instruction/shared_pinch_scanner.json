@@ -1,0 +1,16 @@
+{
+  "full_description": "Grasp the scanner and scan the yellow pad with the left arm",
+  "schema": "{A} notifies the scanner, {B} notifies the yellow pad, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Scan {B} with {A} using {a}.",
+    "Hold {A} over {B}.",
+    "Use {a} to scan {B} with {A}.",
+    "Pick up {A} and scan {B}.",
+    "Point {A} at {B} with {a}."
+  ],
+  "unseen": [
+    "Scan {B} using {A}.",
+    "Move {A} over {B} with {a}."
+  ]
+}

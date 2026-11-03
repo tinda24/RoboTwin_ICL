@@ -1,0 +1,16 @@
+{
+  "full_description": "Hand the playing cards from the right arm to the left arm",
+  "schema": "{A} notifies the playing cards, {a} notifies the giving arm, {b} notifies the receiving arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Hand {A} from {a} to {b}.",
+    "Pass {A} to {b}.",
+    "Use {a} to give {A} to {b}.",
+    "Transfer {A} from {a} to {b}.",
+    "Move {A} into {b} from {a}."
+  ],
+  "unseen": [
+    "Give {A} to {b}.",
+    "Pass {A} from {a} over to {b}."
+  ]
+}

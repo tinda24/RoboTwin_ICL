@@ -1,0 +1,16 @@
+{
+  "full_description": "Lift the red cube and the playing cards at the same time",
+  "schema": "{A} notifies the red cube, {B} notifies the playing cards, {a} and {b} notify the arms",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Lift {A} and {B} together.",
+    "Pick up {A} and {B} at the same time.",
+    "Use both arms to lift {A} and {B}.",
+    "Raise {A} with {a} and {B} with {b}.",
+    "Hold {A} and {B} up together."
+  ],
+  "unseen": [
+    "Lift {A} and {B} simultaneously.",
+    "Pick {A} and {B} up together."
+  ]
+}

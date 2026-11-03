@@ -1,0 +1,16 @@
+{
+  "full_description": "Turn the knob counterclockwise with the right arm",
+  "schema": "{A} notifies the knob, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Turn {A} counterclockwise with {a}.",
+    "Rotate {A} counterclockwise.",
+    "Use {a} to twist {A} counterclockwise.",
+    "Spin {A} counterclockwise using {a}.",
+    "Give {A} a counterclockwise turn with {a}."
+  ],
+  "unseen": [
+    "Twist {A} counterclockwise.",
+    "Rotate {A} counterclockwise with {a}."
+  ]
+}

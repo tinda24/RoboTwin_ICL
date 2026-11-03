@@ -1,0 +1,16 @@
+{
+  "full_description": "Lift the roller off the table with the left arm",
+  "schema": "{A} notifies the roller, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Lift {A} with {a}.",
+    "Pick {A} up off the table.",
+    "Use {a} to raise {A}.",
+    "Grasp {A} and lift it.",
+    "Hold {A} up with {a}."
+  ],
+  "unseen": [
+    "Raise {A} with {a}.",
+    "Pick {A} up with {a}."
+  ]
+}

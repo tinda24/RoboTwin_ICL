@@ -1,0 +1,16 @@
+{
+  "full_description": "Grasp the hammer and strike the playing cards with the right arm",
+  "schema": "{A} notifies the hammer, {B} notifies the playing cards, {a} notifies the arm",
+  "preference": "num of words should not exceed 15",
+  "seen": [
+    "Hit {B} with {A} using {a}.",
+    "Strike {B} with {A}.",
+    "Use {a} to tap {B} with {A}.",
+    "Pick up {A} and hit {B}.",
+    "Bring {A} down on {B} with {a}."
+  ],
+  "unseen": [
+    "Knock {B} with {A}.",
+    "Use {A} to strike {B} with {a}."
+  ]
+}
